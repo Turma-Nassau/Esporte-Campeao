@@ -1,2 +1,3 @@
-# Esporte Campeao
- Mostra o dia a dia do esporte 
+Esporte Campeão ⚽
+
+🪪  O dia a dia do seu time do coração💙
