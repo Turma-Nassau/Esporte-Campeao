@@ -6,7 +6,7 @@ const docs = {
     info: {
         version: "1.0.0",
         title: "GreenWallet API",
-        description: "API para controle de finanças pessoais"
+        description: "API para site de noticias esportivas"
     },
     host: "localhost:8000",
     schemes: ['http'],

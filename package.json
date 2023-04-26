@@ -1,7 +1,7 @@
 {
-  "name": "planner_financeiro",
+  "name": "esporte_campeao",
   "version": "1.0.0",
-  "description": "API Para um Planner Finaceiro",
+  "description": "API Para um site de esporte",
   "main": "server.js",
   "dependencies": {
     "abbrev": "^1.1.1",
@@ -101,9 +101,9 @@
   "keywords": [
     "API",
     "Server",
-    "Finaceiro"
+    "Site"
   ],
-  "author": "RayHakky",
+  "author": "Jvgaldino",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.3.7",
